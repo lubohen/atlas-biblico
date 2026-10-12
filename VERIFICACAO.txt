@@ -1,0 +1,28 @@
+VERIFICAÇÃO DO ATLAS DAS ESCRITURAS — 12/10/2026
+
+Conjunto final verificado abrindo os arquivos locais diretamente em Chrome.
+Não foi necessário servidor para execução dos testes.
+
+Resultados:
+- Sete páginas abriram sem erros JavaScript.
+- Links locais e imagens locais verificados.
+- 86 marcos cronológicos com referências.
+- 295 registros familiares e sequências com referências.
+- 57 episódios dos Evangelhos com referências.
+- 73 livros: 66 do núcleo e 7 deuterocanônicos.
+- Lista de Mateus: 41 entradas exibidas, sem duplicar os nomes de fronteira.
+- Lista de Lucas: 78 entradas na forma com Admim/Arni, incluindo Deus;
+  Deus é explicitamente separado de geração humana.
+- Busca global, filtros por grupo, cânon, fase e Evangelho testados.
+- Navegação entre períodos e destinos de busca testada.
+- Marcadores, anotações, persistência e exportação JSON testados.
+- Quatro mapas, seleção de lugares, rotas e zoom testados.
+- Tema e persistência de tema testados.
+- As sete páginas não extrapolaram a largura do corpo em tela de 390 px.
+- Inspeção visual de páginas e mapas em telas de computador e celular.
+
+Limites desta verificação:
+As páginas externas de todas as referências não foram testadas uma a uma.
+A presença de referências e a revisão editorial não equivalem a um aparato
+crítico completo, validação acadêmica independente ou consenso confessional.
+Datas e relações discutidas estão sinalizadas no conteúdo e no Método.

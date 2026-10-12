@@ -1,0 +1,75 @@
+ATLAS DAS ESCRITURAS
+Site estático em português — edição de estudo de 12/10/2026
+
+COMO ABRIR
+1. Extraia todo o arquivo ZIP para uma pasta.
+2. Abra index.html com Chrome, Edge, Firefox ou outro navegador atual.
+3. Mantenha a pasta assets junto dos arquivos HTML.
+
+Não é necessário instalar programas, compilar, criar uma conta nem iniciar
+um servidor. O conteúdo e as interações funcionam sem internet. Os links
+para textos bíblicos, fontes históricas e licenças precisam de internet.
+
+PÁGINAS
+index.html         Linha do tempo: 13 períodos e 86 marcos da narrativa.
+periodos.html      Acontecimentos e livros agrupados por grandes períodos.
+genealogias.html   295 registros e sequências; linhas completas de Mateus e
+                  Lucas; idades de Gênesis; variantes e listas complementares.
+jesus.html         57 episódios com referências paralelas, 15 conjuntos de
+                  ensinos, sete sinais em uma organização usual de João e
+                  as chamadas sete palavras da cruz.
+mapas.html         Quatro mapas originais selecionáveis e um esquema do
+                  tabernáculo; percursos, lugares, zoom e referências.
+biblioteca.html    Fichas dos 66 livros do núcleo protestante e dos sete
+                  deuterocanônicos católicos; notas sobre Ester e Daniel.
+metodo.html        Critérios, incertezas, fontes e exportação de anotações.
+
+COMO EXPLORAR
+- A busca superior pesquisa todo o atlas. O atalho / leva a essa busca.
+- Os filtros de cada página pesquisam seu conjunto de dados.
+- A estrela nos marcos da linha do tempo cria um marcador.
+- Expanda “Contexto, pergunta e minha anotação” para escrever suas notas.
+- Na página Método, “Baixar meus marcadores e notas” produz uma cópia JSON.
+- Nas genealogias, busque um nome e compare os registros de cada fonte.
+- Nos mapas, escolha um percurso e clique em um ponto ou botão de lugar.
+- Tema e impressão ficam no topo; a página se adapta a telas menores.
+
+ANOTAÇÕES E PRIVACIDADE
+Os marcadores e anotações usam o armazenamento do navegador. Não há conta,
+envio de informações, serviços de rastreamento ou dependências remotas.
+O comportamento de armazenamento ao abrir file:// pode variar entre
+navegadores e caminhos de arquivo; outro navegador, modo privado ou uma
+mudança de pasta pode não acessar as mesmas notas. Faça uma cópia pelo
+botão de exportação antes de mover arquivos ou limpar os dados do navegador.
+A exportação é uma cópia para consulta; não há importação automática.
+
+CRITÉRIOS DE LEITURA
+A linha do tempo é uma visão de estudo da sequência narrativa e de seus
+principais contextos; não é uma lista de todos os versículos da Bíblia.
+Datas aproximadas, composição dos livros e cenários narrativos são
+distinguidos. Genealogias podem condensar gerações ou representar clãs.
+As listas complementares remetem às passagens integrais para registros
+de ofícios, habitantes, censos e nomes com sintaxe difícil. O atlas não
+inventa vínculos ausentes nem oferece um aparato completo de manuscritos.
+
+Os mapas têm costas e coordenadas aproximadas. Linhas conectam lugares
+citados, não demonstram estradas antigas. Sinai, rotas do êxodo e algumas
+identificações de cidades são discutidos. A planta do tabernáculo é
+conceitual e não representa os templos de Jerusalém.
+
+REFERÊNCIAS
+As sínteses acompanham referências bíblicas. A maioria dos links abre a
+NVI em português no Bible Gateway. Os deuterocanônicos abrem capítulos
+na USCCB, em inglês; confira a numeração da sua própria edição. Fontes
+históricas, notas e divergências de tradição estão na página Método.
+
+ARQUIVOS E REUTILIZAÇÃO
+assets/data.js é o conteúdo carregado pelo site. dados.json é uma cópia
+editável para consulta; alterar apenas dados.json não muda o site.
+assets/app.js contém as interações; assets/style.css, a apresentação;
+assets/maps.js, os mapas interativos. As imagens SVG também são fornecidas
+separadamente, para reutilização. Não há bibliotecas externas necessárias.
+
+Textos de síntese, arquivos do site e desenhos originais são disponibilizados
+sob CC0 1.0. Textos bíblicos, traduções e fontes externas têm direitos próprios.
+Veja LICENCA.txt e a página Método.

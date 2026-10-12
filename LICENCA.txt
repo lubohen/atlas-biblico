@@ -1,0 +1,11 @@
+Este pacote contém textos de síntese, estrutura HTML/CSS/JS e desenhos SVG
+originais produzidos para o Atlas das Escrituras. Esses materiais são
+disponibilizados sob CC0 1.0 Universal para permitir reutilização e adaptação.
+
+Instrumento completo: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Resumo em português: https://creativecommons.org/publicdomain/zero/1.0/deed.pt-br
+
+Esta disponibilização não se aplica a textos bíblicos de traduções, imagens
+ou textos de sites externos acessados por links. O pacote não inclui cópias
+integrais dessas traduções nem imagens de terceiros. As referências e nomes
+servem para localizar as fontes; os comentários são sínteses originais.
